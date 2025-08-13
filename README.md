@@ -1,4 +1,4 @@
-# GameUsh 🎮🏏  
+# GameRush 🎮🏏  
 A dynamic social sports platform enabling users to connect seamlessly through games and activities.  
 Built with **React Native** and the **MERN Stack** (MongoDB, Express.js, React Native, Node.js), GameUsh allows users to create, book, and join sports events at various venues.
 
